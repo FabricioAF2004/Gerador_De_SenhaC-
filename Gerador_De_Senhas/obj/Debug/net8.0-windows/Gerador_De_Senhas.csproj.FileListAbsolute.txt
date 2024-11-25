@@ -1,0 +1,16 @@
+C:\Users\ACER\source\repos\Gerador_De_Senhas\Gerador_De_Senhas\bin\Debug\net8.0-windows\Gerador_De_Senhas.exe
+C:\Users\ACER\source\repos\Gerador_De_Senhas\Gerador_De_Senhas\bin\Debug\net8.0-windows\Gerador_De_Senhas.deps.json
+C:\Users\ACER\source\repos\Gerador_De_Senhas\Gerador_De_Senhas\bin\Debug\net8.0-windows\Gerador_De_Senhas.runtimeconfig.json
+C:\Users\ACER\source\repos\Gerador_De_Senhas\Gerador_De_Senhas\bin\Debug\net8.0-windows\Gerador_De_Senhas.dll
+C:\Users\ACER\source\repos\Gerador_De_Senhas\Gerador_De_Senhas\bin\Debug\net8.0-windows\Gerador_De_Senhas.pdb
+C:\Users\ACER\source\repos\Gerador_De_Senhas\Gerador_De_Senhas\obj\Debug\net8.0-windows\Gerador_De_Senhas.GeradorDeSenhas.resources
+C:\Users\ACER\source\repos\Gerador_De_Senhas\Gerador_De_Senhas\obj\Debug\net8.0-windows\Gerador_De_Senhas.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Gerador_De_Senhas\Gerador_De_Senhas\obj\Debug\net8.0-windows\Gerador_De_Senhas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\Gerador_De_Senhas\Gerador_De_Senhas\obj\Debug\net8.0-windows\Gerador_De_Senhas.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Gerador_De_Senhas\Gerador_De_Senhas\obj\Debug\net8.0-windows\Gerador_De_Senhas.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Gerador_De_Senhas\Gerador_De_Senhas\obj\Debug\net8.0-windows\Gerador_De_Senhas.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Gerador_De_Senhas\Gerador_De_Senhas\obj\Debug\net8.0-windows\Gerador_De_Senhas.dll
+C:\Users\ACER\source\repos\Gerador_De_Senhas\Gerador_De_Senhas\obj\Debug\net8.0-windows\refint\Gerador_De_Senhas.dll
+C:\Users\ACER\source\repos\Gerador_De_Senhas\Gerador_De_Senhas\obj\Debug\net8.0-windows\Gerador_De_Senhas.pdb
+C:\Users\ACER\source\repos\Gerador_De_Senhas\Gerador_De_Senhas\obj\Debug\net8.0-windows\Gerador_De_Senhas.genruntimeconfig.cache
+C:\Users\ACER\source\repos\Gerador_De_Senhas\Gerador_De_Senhas\obj\Debug\net8.0-windows\ref\Gerador_De_Senhas.dll

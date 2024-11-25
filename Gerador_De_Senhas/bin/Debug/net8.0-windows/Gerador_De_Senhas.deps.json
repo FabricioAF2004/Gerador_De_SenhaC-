@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Gerador_De_Senhas/1.0.0": {
+        "runtime": {
+          "Gerador_De_Senhas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gerador_De_Senhas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
